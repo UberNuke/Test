@@ -17,4 +17,9 @@ public class test1 {
 	{
 		return true;
 	}
+	
+	public static boolean get_false()
+	{
+		return false;
+	}
 }
